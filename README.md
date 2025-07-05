@@ -15,9 +15,8 @@ This project is a lightweight web application for predicting the nationality and
 
 ## Installation & Setup
 
-### 1. Clone or Download the Repository
+### 1. Download the NationalityAuthorProfiling.zip file and extract it
 ```bash
-git clone https://github.com/yourusername/NationalityAuthorProfiling.git
 cd NationalityAuthorProfiling
 ```
 
